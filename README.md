@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Loyslene.Loyslene&left_color=purple&right_color=purple" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Loyslene.Loyslene&left_color=black&right_color=black" />
 </div>
 
 ###

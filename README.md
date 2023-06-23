@@ -39,8 +39,5 @@
   </a>
 </div>
 
-###
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Loyslene&bg_color=0f0f14&color=ededed&line=75cef5&point=e82c2c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
           
           

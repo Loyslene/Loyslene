@@ -12,7 +12,8 @@
 <img align="right" height="150" src="https://media2.giphy.com/media/yyVph7ANKftIs/giphy.gif?cid=ecf05e47xxkub89g8prl3yj8vbhjnslzypqhl8hn43h9pqbz&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-👩‍💻Language and tools
+
+tools I use and have used
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />

@@ -1,7 +1,14 @@
-<h2 align="left">Olá! Eu sou a Loys!</h2>
+<h2 align="left">Hi! I'm Loys 🦸🏽</h2>
 
 ###
 
+```
+- 🌎 Loys = {'name': 'Loyslene Santana', 'country': 'Brazil', 'year_of_birth': '1997'}
+- 🌱 I'm currently learning: about AI development, Multi-Agent Systems, backend stuff, and anything interesting
+- 😄 Pronouns: she/her
+- 🎓 Systems Analysis and Development
+- 📨 How to contact me: loyslenepsantana@gmail.com
+```
 <img align="right" height="150" src="https://media2.giphy.com/media/yyVph7ANKftIs/giphy.gif?cid=ecf05e47xxkub89g8prl3yj8vbhjnslzypqhl8hn43h9pqbz&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
